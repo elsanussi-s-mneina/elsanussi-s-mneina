@@ -11,7 +11,7 @@ The following is a list of projects for prospective employers to look at.
 - [phonetics-modeling in Javascript](https://github.com/elsanussi-s-mneina/phonetics-modeling-html-js) ([try it](https://elsanussi-s-mneina.github.io/phonetics-modeling-html-js/))
 
 ### Desktop Applications:
-- [phonetics-modeling in Python](https://github.com/elsanussi-s-mneina/phonetics-modeling-python)
+- [phonetics-modeling in Python](https://github.com/elsanussi-s-mneina/phonetics-modeling-python) ([screenshots](https://github.com/elsanussi-s-mneina/phonetics-modeling-python/wiki/screenshots))
 - [Donation Tracker in C#](https://github.com/elsanussi-s-mneina/DonationTracker) ([screenshots](https://github.com/elsanussi-s-mneina/DonationTracker/wiki/screenshots))  
 - [Flashcard Application in F#](https://github.com/elsanussi-s-mneina/flashcard-application-fs)
 
