@@ -7,7 +7,7 @@ A few projects are custom keyboard layouts I made, or small examples showing how
 The following is a list of projects for prospective employers to look at.
 
 ### Web Applications:
-- [phonetics-modeling in Elm](https://github.com/elsanussi-s-mneina/phonetics-modeling-elm) ([screenshots](https://github.com/elsanussi-s-mneina/phonetics-modeling-elm/wiki/screenshots))
+- [phonetics-modeling in Elm](https://github.com/elsanussi-s-mneina/phonetics-modeling-elm) ([screenshots](https://github.com/elsanussi-s-mneina/phonetics-modeling-elm/wiki/screenshots)) ([try it](https://elsanussi-s-mneina.github.io/phonetics-modeling-elm-demo/))
 - [phonetics-modeling in Javascript](https://github.com/elsanussi-s-mneina/phonetics-modeling-html-js) ([try it](https://elsanussi-s-mneina.github.io/phonetics-modeling-html-js/))
 
 ### Desktop Applications:
