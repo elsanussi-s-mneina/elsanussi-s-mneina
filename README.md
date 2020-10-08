@@ -1,10 +1,9 @@
-# Welcome
+## My Small Online Utility Apps
+- [Removal of Arabic Diacritics](https://elsanussi-s-mneina.github.io/basic-arabic-diacritic-remover-web-app/)
+
+# Portfolio
 This GitHub profile contains the personal programming projects started by Elsanussi Mneina.
-
-A few of the public projects here are desktop applications. Some are console applications, and one is a web application.
-A few projects are custom keyboard layouts I made, or small examples showing how to do something in a programming language.
-
-The following is a list of projects for prospective employers to look at.
+The following is a list of projects for employers to look at.
 
 ### Web Applications:
 - [phonetics-modeling in Elm](https://github.com/elsanussi-s-mneina/phonetics-modeling-elm) ([screenshots](https://github.com/elsanussi-s-mneina/phonetics-modeling-elm/wiki/screenshots)) ([try it](https://elsanussi-s-mneina.github.io/phonetics-modeling-elm-demo/))
