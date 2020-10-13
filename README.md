@@ -1,5 +1,5 @@
-## My Small Online Utility Apps
-- [Removal of Arabic Diacritics](https://elsanussi-s-mneina.github.io/basic-arabic-diacritic-remover-web-app/)
+## [Go to Online Utilities](https://elsanussi-s-mneina.github.io/u/)
+- or use the shortened URL https://git.io/JTLbl
 
 # Portfolio
 This GitHub profile contains the personal programming projects started by Elsanussi Mneina.
