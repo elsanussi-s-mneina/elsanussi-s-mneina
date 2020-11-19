@@ -1,21 +1,3 @@
-## [Go to Online Utilities](https://elsanussi-s-mneina.github.io/u/)
+My name is Elsanussi, that is my first name. I am a man interested in making software and linguistics. You can [try some of my software projects in your web browser at https://elsanussi-s-mneina.github.io/u/](https://elsanussi-s-mneina.github.io/u/). You can try [Phonetics Modeling Web Application (in Elm)](https://elsanussi-s-mneina.github.io/phonetics-modeling-elm-demo/).
 
-# Portfolio
-This GitHub profile contains the personal programming projects started by Elsanussi Mneina.
-The following is a list of projects for employers to look at.
-
-# Repository News for November 2020
-- deleting wikis
-
-### Web Applications:
-- [phonetics-modeling in Elm](https://github.com/elsanussi-s-mneina/phonetics-modeling-elm) ([try it](https://elsanussi-s-mneina.github.io/phonetics-modeling-elm-demo/))
-- [phonetics-modeling in Javascript](https://github.com/elsanussi-s-mneina/phonetics-modeling-html-js) ([try it](https://elsanussi-s-mneina.github.io/phonetics-modeling-html-js/))
-
-### Desktop Applications:
-- [phonetics-modeling in Python](https://github.com/elsanussi-s-mneina/phonetics-modeling-python)
-- [Donation Tracker in C#](https://github.com/elsanussi-s-mneina/DonationTracker)   
-- [Flashcard Application in F#](https://github.com/elsanussi-s-mneina/flashcard-application-fs)
-
-### Console Applications:
-- [phonetics-modeling in Haskell](https://github.com/elsanussi-s-mneina/phonetics-modeling)
-- [arabic-transliteration in Haskell](https://github.com/elsanussi-s-mneina/arabic-transliteration)
+If you would like to discuss further, or hire me for something, my electronic mail address is my first name followed by a dot followed by the first letter in macaroni at outlook dot com. My linked in account is at: www.linkedin.com/in/elsanussi-mneina-57a8181b5
