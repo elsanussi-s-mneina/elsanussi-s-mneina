@@ -4,6 +4,9 @@
 This GitHub profile contains the personal programming projects started by Elsanussi Mneina.
 The following is a list of projects for employers to look at.
 
+# Repository News for January 2021
+- Created a single page web application to type Arabic in Arabic script using only ASCII characters as an input method (or vice versa) called [one-apostrophe arabic transliteration...](https://github.com/elsanussi-s-mneina/one-apostrophe-arabic-transliteration-html-js)
+
 # Repository News for December 2020 
 The month was mostly spent on creating useful Dvorak keyboard layouts, creating example keyboard layouts for others to learn from, and a few experimental keyboard layouts for typing Arabic script, and for typing Arabic romanization.
 - Created [IPA-keyboard-modifications repository](https://github.com/elsanussi-s-mneina/IPA-keyboard-modifications), so I can type International Phonetic Alphabets using Dvorak keyboard layout.
