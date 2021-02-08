@@ -4,6 +4,9 @@
 This GitHub profile contains the personal programming projects started by Elsanussi Mneina.
 The following is a list of projects for employers to look at.
 
+# Repository News for February 2021
+- Created an Arabic Virtual Keyboard [try it](https://elsanussi-s-mneina.github.io/u/ar_pc_virt.html) [see repo](https://github.com/elsanussi-s-mneina/arabic_pc_virtual_keyboard_in_html_javascript) (A single page web application for typing Arabic using the Arabic (PC) keyboard layout)
+
 # Repository News for January 2021
 - Created a single page web application to type Arabic in Arabic script using only ASCII characters as an input method (or vice versa) called [one-apostrophe arabic transliteration...](https://github.com/elsanussi-s-mneina/one-apostrophe-arabic-transliteration-html-js)
 
