@@ -2,7 +2,21 @@
 
 # Portfolio
 This GitHub profile contains the personal programming projects started by Elsanussi Mneina.
-The following is a list of projects for employers to look at.
+The following is a list of some projects for employers to look at.
+### Web Applications:
+- [phonetics-modeling in Elm](https://github.com/elsanussi-s-mneina/phonetics-modeling-elm) ([try it](https://elsanussi-s-mneina.github.io/phonetics-modeling-elm-demo/))
+- [phonetics-modeling in Javascript](https://github.com/elsanussi-s-mneina/phonetics-modeling-html-js) ([try it](https://elsanussi-s-mneina.github.io/phonetics-modeling-html-js/))
+
+### Desktop Applications:
+- [phonetics-modeling in Python](https://github.com/elsanussi-s-mneina/phonetics-modeling-python)
+- [Donation Tracker in C#](https://github.com/elsanussi-s-mneina/DonationTracker)   
+- [Flashcard Application in F#](https://github.com/elsanussi-s-mneina/flashcard-application-fs)
+
+### Console Applications:
+- [phonetics-modeling in Haskell](https://github.com/elsanussi-s-mneina/phonetics-modeling)
+- [arabic-transliteration in Haskell](https://github.com/elsanussi-s-mneina/arabic-transliteration)
+### [See More of Portfolio](https://elsanussi-s-mneina.github.io/)
+
 
 # Repository News for February 2021
 - Created an Arabic Virtual Keyboard ([try it](https://elsanussi-s-mneina.github.io/u/ar_pc_virt.html), [see repo](https://github.com/elsanussi-s-mneina/arabic_pc_virtual_keyboard_in_html_javascript)) (A single page web application for typing Arabic using the Arabic (PC) keyboard layout)
@@ -26,15 +40,3 @@ The month was mostly spent on creating useful Dvorak keyboard layouts, creating 
 # Repository News for November 2020
 - added new [diagnostic keyboard layout](https://github.com/elsanussi-s-mneina/keycodes-for-keyboard-macos-catalina-diagnostics) for MacOS Catalina, and a screenshot of the keycodes
 
-### Web Applications:
-- [phonetics-modeling in Elm](https://github.com/elsanussi-s-mneina/phonetics-modeling-elm) ([try it](https://elsanussi-s-mneina.github.io/phonetics-modeling-elm-demo/))
-- [phonetics-modeling in Javascript](https://github.com/elsanussi-s-mneina/phonetics-modeling-html-js) ([try it](https://elsanussi-s-mneina.github.io/phonetics-modeling-html-js/))
-
-### Desktop Applications:
-- [phonetics-modeling in Python](https://github.com/elsanussi-s-mneina/phonetics-modeling-python)
-- [Donation Tracker in C#](https://github.com/elsanussi-s-mneina/DonationTracker)   
-- [Flashcard Application in F#](https://github.com/elsanussi-s-mneina/flashcard-application-fs)
-
-### Console Applications:
-- [phonetics-modeling in Haskell](https://github.com/elsanussi-s-mneina/phonetics-modeling)
-- [arabic-transliteration in Haskell](https://github.com/elsanussi-s-mneina/arabic-transliteration)
