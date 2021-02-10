@@ -17,14 +17,15 @@ The following is a list of some projects for employers to look at.
 - [arabic-transliteration in Haskell](https://github.com/elsanussi-s-mneina/arabic-transliteration)
 ### [See More of Portfolio](https://elsanussi-s-mneina.github.io/)
 
-
-# Repository News for February 2021
+# Repository News
+## February 2021
+- Create a Portfolio page listing relevant projects in a readable order with links to source code, and web applications.
 - Created an Arabic Virtual Keyboard ([try it](https://elsanussi-s-mneina.github.io/u/ar_pc_virt.html), [see repo](https://github.com/elsanussi-s-mneina/arabic_pc_virtual_keyboard_in_html_javascript)) (A single page web application for typing Arabic using the Arabic (PC) keyboard layout)
 
-# Repository News for January 2021
+## January 2021
 - Created a single page web application to type Arabic in Arabic script using only ASCII characters as an input method (or vice versa) called [one-apostrophe arabic transliteration...](https://github.com/elsanussi-s-mneina/one-apostrophe-arabic-transliteration-html-js)
 
-# Repository News for December 2020 
+## December 2020 
 The month was mostly spent on creating useful Dvorak keyboard layouts, creating example keyboard layouts for others to learn from, and a few experimental keyboard layouts for typing Arabic script, and for typing Arabic romanization.
 - Created [IPA-keyboard-modifications repository](https://github.com/elsanussi-s-mneina/IPA-keyboard-modifications), so I can type International Phonetic Alphabets using Dvorak keyboard layout.
 - Created [keyboard-layout-translation repository](https://github.com/elsanussi-s-mneina/keyboard-layout-translation), so I can convert a Macintosh QWERTY keyboard layout to Dvorak by running a script.
@@ -36,7 +37,7 @@ The month was mostly spent on creating useful Dvorak keyboard layouts, creating 
 
 - Created [dvorak-arabic-input-via-latin-digraphs](https://github.com/elsanussi-s-mneina/dvorak-arabic-input-via-latin-digraphs) a way to input Arabic characters via typing Latin letter digraphs, e.g. gh -> غ. I don't use it, but it was an interestinng experiment using dead-keys.
 - Done working on [dvorak-arabic-romanization-keyboard-layout-for-macos-catalina](https://github.com/elsanussi-s-mneina/dvorak-arabic-romanization-keyboard-layout-for-macos-catalina), which is for writing the characters required by standardized Arabic romanization systems.
--
-# Repository News for November 2020
+
+## November 2020
 - added new [diagnostic keyboard layout](https://github.com/elsanussi-s-mneina/keycodes-for-keyboard-macos-catalina-diagnostics) for MacOS Catalina, and a screenshot of the keycodes
 
