@@ -26,7 +26,8 @@ git clone https://github.com/elsanussi-s-mneina/dvorak-keyboard-layout-template-
 git clone https://github.com/elsanussi-s-mneina/keyboard-layout-translation.git
 git clone https://github.com/elsanussi-s-mneina/colemak-keyboard-layout-template-macos-catalina.git
 git clone https://github.com/elsanussi-s-mneina/qwerty-keyboard-layout-template-macos-catalina.git
-git clone https://github.com/elsanussi-s-mneina/dvorak-arabic-input-via-latin-digraphs.githttps://github.com/elsanussi-s-mneina/dvorak-arabic-romanization-keyboard-layout-for-macos-catalina.git
+git clone https://github.com/elsanussi-s-mneina/dvorak-arabic-input-via-latin-digraphs.git
+git clone https://github.com/elsanussi-s-mneina/dvorak-arabic-romanization-keyboard-layout-for-macos-catalina.git
 git clone https://github.com/elsanussi-s-mneina/flutter_arabic_alphabet_app.git
 git clone https://github.com/elsanussi-s-mneina/DonationTracker.git
 git clone https://github.com/elsanussi-s-mneina/keycodes-for-keyboard-macos-catalina-diagnostics.git
