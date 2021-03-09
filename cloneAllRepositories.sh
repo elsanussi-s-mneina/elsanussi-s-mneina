@@ -1,3 +1,4 @@
+git clone https://github.com/elsanussi-s-mneina/remove-arabic-diacritics-by-golang.git
 git clone https://github.com/elsanussi-s-mneina/arabic_pc_virtual_keyboard_in_html_javascript.git
 git clone https://github.com/elsanussi-s-mneina/u.git
 git clone https://github.com/elsanussi-s-mneina/phonetics-modeling.git
