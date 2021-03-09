@@ -5,5 +5,3 @@ sed 's/^/git clone /' repositoriesLinks.txt > cloneAllRepositories.sh
 # Make the script executable.
 chmod +x cloneAllRepositories.sh 
 
-# clone all the repositories.
-./cloneAllRepositories.sh
