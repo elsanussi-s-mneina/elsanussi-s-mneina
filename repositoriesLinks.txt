@@ -61,3 +61,4 @@ https://github.com/elsanussi-s-mneina/memory-game-gui-haskell-gloss.git
 https://github.com/elsanussi-s-mneina/flashcard-application-apl.git
 https://github.com/elsanussi-s-mneina/wordsearch-generator.git
 https://github.com/elsanussi-s-mneina/flashcard-application-clojure.git
+https://github.com/elsanussi-s-mneina/h-slash-arabic-romanization-html-js.git

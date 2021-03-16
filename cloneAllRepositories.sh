@@ -61,3 +61,4 @@ git clone https://github.com/elsanussi-s-mneina/memory-game-gui-haskell-gloss.gi
 git clone https://github.com/elsanussi-s-mneina/flashcard-application-apl.git
 git clone https://github.com/elsanussi-s-mneina/wordsearch-generator.git
 git clone https://github.com/elsanussi-s-mneina/flashcard-application-clojure.git
+git clone https://github.com/elsanussi-s-mneina/h-slash-arabic-romanization-html-js.git
