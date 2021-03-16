@@ -1,8 +1,6 @@
-This GitHub profile contains the personal programming projects started by Elsanussi Mneina.
-### [See Portfolio](https://elsanussi-s-mneina.github.io/)
+This GitHub profile contains the personal programming projects started by Elsanussi Mneina. [See Elsanussi's Portfolio](https://elsanussi-s-mneina.github.io/)
 
-Useful applications and downloads for the general public are available at:
-## [Go to Online Utilities](https://elsanussi-s-mneina.github.io/u/)
+Useful applications and downloads are available at the [Utilities](https://elsanussi-s-mneina.github.io/u/) site.
 
 # Repository News
 ## March 2021
