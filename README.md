@@ -19,6 +19,7 @@ The following is a list of some projects for employers to look at.
 
 # Repository News
 ## March 2021
+- March 16th: Released a new Romanization system for Arabic. Released a web application to transliterate text in it. It has been deployed to my Online Utilities page. [Try it](https://elsanussi-s-mneina.github.io/u/artranslit_hslash.html). [See repository](https://github.com/elsanussi-s-mneina/h-slash-arabic-romanization-html-js)
 - March 8th: Updated Arabic virtual keyboard to support physical backspace key.
   - Ported Arabic diacritic removal software from Haskell to Golang. [See ported project in Golang](https://github.com/elsanussi-s-mneina/remove-arabic-diacritics-by-golang)
 - March 4th: deployed Type and Replace v1.22 to Online Utilities page. Added support for Pinyin, Polish, Latin, Scottish Gaelic, Irish Gaelic, Buckwalter transliteration system for Arabic, Soqotri and Mehri.
