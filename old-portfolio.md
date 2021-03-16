@@ -1,5 +1,5 @@
 # Old Portfolio
-This GitHub profile contains the personal programming projects started by Elsanussi Mneina.
+### [See New Portfolio](https://elsanussi-s-mneina.github.io/)
 The following is a list of some projects for employers to look at.
 ### Web Applications:
 - [phonetics-modeling in Elm](https://github.com/elsanussi-s-mneina/phonetics-modeling-elm) ([try it](https://elsanussi-s-mneina.github.io/phonetics-modeling-elm-demo/))
