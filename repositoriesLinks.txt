@@ -63,3 +63,4 @@ https://github.com/elsanussi-s-mneina/wordsearch-generator.git
 https://github.com/elsanussi-s-mneina/flashcard-application-clojure.git
 https://github.com/elsanussi-s-mneina/h-slash-arabic-romanization-html-js.git
 https://github.com/elsanussi-s-mneina/ipa-numbers-in-haskell.git
+https://github.com/elsanussi-s-mneina/ISO233-Arabic-romanization-html-js-app.git
