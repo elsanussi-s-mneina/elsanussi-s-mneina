@@ -4,6 +4,9 @@ Useful applications and downloads are available at the [Utilities](https://elsan
 
 # Repository News
 ## March 2021
+- March 18th: 
+  - Split off part of phonetics-modeling project involving IPA numbers: into its own repository at https://github.com/elsanussi-s-mneina/ipa-numbers-in-haskell
+  - Start work on a web application for ISO-233 transliteration at https://github.com/elsanussi-s-mneina/ISO233-Arabic-romanization-html-js-app
 - March 16th: Released a new Romanization system for Arabic. Released a web application to transliterate text in it. It has been deployed to my Online Utilities page. [Try it](https://elsanussi-s-mneina.github.io/u/artranslit_hslash.html). [See repository](https://github.com/elsanussi-s-mneina/h-slash-arabic-romanization-html-js)
 - March 8th: Updated Arabic virtual keyboard to support physical backspace key.
   - Ported Arabic diacritic removal software from Haskell to Golang. [See ported project in Golang](https://github.com/elsanussi-s-mneina/remove-arabic-diacritics-by-golang)
