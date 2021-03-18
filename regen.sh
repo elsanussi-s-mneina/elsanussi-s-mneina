@@ -1,0 +1,2 @@
+./generateGitIgnoreFile.sh
+./generateCloneAllRepositoriesScript.sh
