@@ -4,7 +4,7 @@ Useful applications and downloads are available at the [Utilities](https://elsan
 
 # Repository News
 ## March 2021
-- March 31th:
+- March 31:
   - Reimplement NATO Phonetic Alphabet text transformer as a Dotnet console, and a Dotnet Mac GUI application using Visual Studio 2019. See the repository at https://github.com/elsanussi-s-mneina/NATO-Phonetic-Alphabet-in-dotnet
 - March 18th: 
   - Split off part of phonetics-modeling project involving IPA numbers: into its own repository at https://github.com/elsanussi-s-mneina/ipa-numbers-in-haskell
