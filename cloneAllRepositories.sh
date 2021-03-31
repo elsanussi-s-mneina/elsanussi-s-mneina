@@ -64,3 +64,4 @@ git clone https://github.com/elsanussi-s-mneina/flashcard-application-clojure.gi
 git clone https://github.com/elsanussi-s-mneina/h-slash-arabic-romanization-html-js.git
 git clone https://github.com/elsanussi-s-mneina/ipa-numbers-in-haskell.git
 git clone https://github.com/elsanussi-s-mneina/ISO233-Arabic-romanization-html-js-app.git
+git clone https://github.com/elsanussi-s-mneina/NATO-Phonetic-Alphabet-in-dotnet
