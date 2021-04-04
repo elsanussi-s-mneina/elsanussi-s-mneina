@@ -3,6 +3,9 @@ This GitHub profile contains the personal programming projects started by Elsanu
 Useful applications and downloads are available at the [Utilities](https://elsanussi-s-mneina.github.io/u/) site.
 
 # Repository News
+## April 2021
+- April 3
+  - Reimplement ipa-numbers-in-haskell in the Elm programming language at https://github.com/elsanussi-s-mneina/ipa-numbers-in-elm. This is a project for converting IPA numbers to IPA characters. (IPA stands for International Phonetic Alphabet). But it is programmed in Elm, and runs in a web browser.
 ## March 2021
 - March 31:
   - Reimplement NATO Phonetic Alphabet text transformer as a Dotnet console, and a Dotnet Mac GUI application using Visual Studio 2019. See the repository at https://github.com/elsanussi-s-mneina/NATO-Phonetic-Alphabet-in-dotnet
