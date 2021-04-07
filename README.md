@@ -1,5 +1,4 @@
 
-## [Get Elsanussi's Resumé/CV](https://github.com/elsanussi-s-mneina/resume/raw/trunk/ELSANUSSI%20MNEINA%20(Resume)%209.3.pdf)
 
 This GitHub profile contains the personal programming projects started by Elsanussi Mneina. [See Elsanussi's Portfolio](https://elsanussi-s-mneina.github.io/)
 
@@ -7,8 +6,6 @@ Useful applications and downloads are available at the [Utilities](https://elsan
 
 # Repository News
 ## April 2021
-- April 6
-  - Add repository for storing resumé and other files likely needed by recruiters in an attempt to get hired.  See repository at https://github.com/elsanussi-s-mneina/resume
 - April 3
   - Reimplement ipa-numbers-in-haskell in the Elm programming language at https://github.com/elsanussi-s-mneina/ipa-numbers-in-elm. This is a project for converting IPA numbers to IPA characters. (IPA stands for International Phonetic Alphabet). But it is programmed in Elm, and runs in a web browser.
 ## March 2021
