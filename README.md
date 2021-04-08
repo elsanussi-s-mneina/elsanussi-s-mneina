@@ -1,8 +1,18 @@
+Hi,
+My name is Elsanussi Mneina. I am searching for my next position.
+I am: 
+- A software developer with 2 years industry experience in C#, and 11 months experience at a college in Python.
+- interested in functional programming (Haskell, Elm, F#, etc.) and in natural languages (English, Arabic, French, Latin, Irish, etc.).
+- If you want my resumé, send a message to my email address at: elsanussi.m@outlook.com.
+
+Now, feel free to browse through some projects I made. You might find something useful. 
+...
+
+Useful applications and downloads are available at the [Utilities](https://elsanussi-s-mneina.github.io/u/) site.
 
 
 This GitHub profile contains the personal programming projects started by Elsanussi Mneina. [See Elsanussi's Portfolio](https://elsanussi-s-mneina.github.io/)
 
-Useful applications and downloads are available at the [Utilities](https://elsanussi-s-mneina.github.io/u/) site.
 
 # Repository News
 ## April 2021
