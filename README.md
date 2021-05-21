@@ -1,8 +1,10 @@
 Hi,
 My name is Elsanussi Mneina. I am searching for my next position.
 I am: 
-- A software developer with 2 years industry experience in C#, and 11 months experience at a college in Python.
+- A software developer with 2 years and 3 months industry experience in C#, and 11 months experience at a college in Python.
 - interested in functional programming (Haskell, Elm, F#, etc.) and in natural languages (English, Arabic, French, Latin, Irish, etc.).
+- Currently learning React.js with Rescript, and Javascript (as of May 2021)
+- Has dabbled with Flutter/Dart, has made significant projects in the past in WPF + C#, and also in C++.
 - If you want my resumé, send a message to my email address at: elsanussi.m@outlook.com.
 
 Now, feel free to browse through some projects I made. You might find something useful. 
@@ -13,8 +15,22 @@ Useful applications and downloads are available at the [Utilities](https://elsan
 
 This GitHub profile contains the personal programming projects started by Elsanussi Mneina. [See Elsanussi's Portfolio](https://elsanussi-s-mneina.github.io/)
 
+# Book and Studies News
+- Since middle of May:
+  - Reading "Web Development with ReasonML by J David Eisenberg" since middle of May 2021
+  - Reading "Learning Go by Jon Bodner
+- Since start of May:
+  - Taking a course at LogicRoom called "Ultra Fast Testing and TDD", see my progress at the leaderboard: [See leaderboard](https://app.logicroom.co/#/app/home)
 
 # Repository News
+## May 2021
+- May 21
+  - Made RememberTheLetterCSharp source code publicly visible, but with a restrictive license.
+  -- See https://github.com/elsanussi-s-mneina/RememberTheLetterCSharp
+  - Made Arabic flutter App source code publicly visiible, but with a restrictive license.
+  -- See https://github.com/elsanussi-s-mneina/flutter_arabic_alphabet_app
+  - Made a To do application made in Rescript source code visible
+  -- See https://github.com/elsanussi-s-mneina/tally-my-rescript-to-do-app
 ## April 2021
 - April 3
   - Reimplement ipa-numbers-in-haskell in the Elm programming language at https://github.com/elsanussi-s-mneina/ipa-numbers-in-elm. This is a project for converting IPA numbers to IPA characters. (IPA stands for International Phonetic Alphabet). But it is programmed in Elm, and runs in a web browser.
