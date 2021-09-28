@@ -8,4 +8,12 @@ If you want an introduction to my Github profile, watch this video:
 Please watch my Youtube channel to learn more about me:
 - [GrassDewMorning](https://www.youtube.com/user/GrassDewMorning)
 
-News June 1, 2021: hiding, and archiving old repositories. 
+## Gists (single file source code samples)
+- [Unicode Constants](https://gist.github.com/elsanussi-s-mneina/de4fdbf4edc9993b3b9036eb0de242cd)
+   - Ever wanted to work with Unicode values in String escape sequences, but had trouble remembering them. Copy a few of the Unicode constants you need from here.
+- [Buckwalter romanization of Arabic implemented in Golang](https://gist.github.com/elsanussi-s-mneina/5a3033b4e2905c895908d22ba7092124) 
+- [More of my Gists](https://gist.github.com/elsanussi-s-mneina)
+
+## News
+Before September 28th and ongoing Working on a tutorial series for Go programming language on Youtube
+June 1, 2021: hiding, and archiving old repositories. 
