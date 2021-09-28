@@ -16,4 +16,3 @@ Please watch my Youtube channel to learn more about me:
 
 ## News
 Before September 28th and ongoing Working on a tutorial series for Go programming language on Youtube
-June 1, 2021: hiding, and archiving old repositories. 
