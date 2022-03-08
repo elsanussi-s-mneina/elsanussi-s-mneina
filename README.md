@@ -16,3 +16,10 @@ Please watch my Youtube channel to learn more about me:
 
 ## News
 Before September 28th and ongoing Working on a tutorial series for Go programming language on Youtube
+
+# For Recruiters
+Current Work status: Not working, looking for work
+Last updated: March 8, 2022
+I am a software developer with two years full time industry experience (C#, Java, XSLT, MXML, CSS, Javascript, ORMs, SQL), multiple seasons of experience in grader-marker role at University computer Science courses, tutoring Mathematics to high school students, working on research projects in Python programming language. Has a YouTube channel where he teaches Go programming language. Degree in Computer Science and Linguistics. Knows about text on computers, including Unicode, how to make a keyboard layout. Looking for a software developer role, or teaching role.
+
+You can contact me at grassdewmorning@gmail.com, if you have any questions, errata, or job offers.
