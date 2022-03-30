@@ -18,7 +18,7 @@ Please watch my Youtube channel to learn more about me:
 Before September 28th and ongoing Working on a tutorial series for Go programming language on Youtube
 
 # For Recruiters
-Current Work status: Not working, looking for work
+Current Work status: looking for employment or other opportunities
 
 Last updated: March 8, 2022
 
