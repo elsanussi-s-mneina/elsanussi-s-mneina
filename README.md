@@ -1,5 +1,11 @@
 - [Portfolio](https://elsanussi-s-mneina.github.io/)
-- [Utilities](https://elsanussi-s-mneina.github.io/u/)
+# [Utilities](https://elsanussi-s-mneina.github.io/u/)
+- More of my utilities
+   - [Yiddish Alphabet basic keyboard](https://elsanussi-s-mneina.github.io/yiddish-alphabet-basic-keyboard-html-js/)
+   - [Hebrew Alphabet Syllabic Basic Keyboard](https://elsanussi-s-mneina.github.io/hebrew-alphabet-syllabic-keyboard-html-js/)
+   - [Arabic Alphabet Syllabic Basic Keyboard](https://elsanussi-s-mneina.github.io/arabic-alphabet-basic-syllabic-keyboard-html-js/)
+   - [Hebrew Alphabet Basic Keyboard](https://elsanussi-s-mneina.github.io/hebrew-alphabet-basic-keyboard-html-js/)
+   - [IPA Number to IPA Character Converter](https://elsanussi-s-mneina.github.io/ipa-numbers-in-elm/)
 
 If you want an introduction to my Github profile, watch this video:
 [A tour of my Github portfolio 2021-08-19
