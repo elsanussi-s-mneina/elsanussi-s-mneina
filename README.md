@@ -1,3 +1,5 @@
+# If you want an introduction to my Github profile, watch [A tour of my Github portfolio 2021-08-19](https://youtu.be/6Bh2DuZoQ0Y)
+
 - [Portfolio](https://elsanussi-s-mneina.github.io/)
 # [Utilities](https://elsanussi-s-mneina.github.io/u/)
 - More of my utilities
@@ -7,9 +9,6 @@
    - [Hebrew Alphabet Basic Keyboard](https://elsanussi-s-mneina.github.io/hebrew-alphabet-basic-keyboard-html-js/)
    - [IPA Number to IPA Character Converter](https://elsanussi-s-mneina.github.io/ipa-numbers-in-elm/)
 
-If you want an introduction to my Github profile, watch this video:
-[A tour of my Github portfolio 2021-08-19
-](https://youtu.be/6Bh2DuZoQ0Y)
 
 Please watch my Youtube channels to learn more about me:
 - [GrassDewMorning  https://www.youtube.com/user/GrassDewMorning](https://www.youtube.com/user/GrassDewMorning)
