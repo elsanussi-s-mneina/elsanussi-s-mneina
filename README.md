@@ -6,9 +6,9 @@ If you want an introduction to my Github profile, watch this video:
 ](https://youtu.be/6Bh2DuZoQ0Y)
 
 Please watch my Youtube channels to learn more about me:
-- [GrassDewMorning](https://www.youtube.com/user/GrassDewMorning)
+- [GrassDewMorning  https://www.youtube.com/user/GrassDewMorning](https://www.youtube.com/user/GrassDewMorning)
 - [Keyboard Layouts and GrassDewMorning](https://www.youtube.com/channel/UCPcIzNMyas4cSHqCFLiW4EQ)
-
+- [Golang Morning](https://www.youtube.com/channel/UCfZFSKqV6k31ebx2np9_A7w)
 
 ## Gists (single file source code samples)
 - [Unicode Constants](https://gist.github.com/elsanussi-s-mneina/de4fdbf4edc9993b3b9036eb0de242cd)
