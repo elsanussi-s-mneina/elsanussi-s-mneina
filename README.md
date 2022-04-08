@@ -22,16 +22,14 @@ Please watch my Youtube channels to learn more about me:
 - [Buckwalter romanization of Arabic implemented in Golang](https://gist.github.com/elsanussi-s-mneina/5a3033b4e2905c895908d22ba7092124) 
 - [More of my Gists](https://gist.github.com/elsanussi-s-mneina)
 
-## News
-Before September 28th and ongoing Working on a tutorial series for Go programming language on Youtube
 
 # For Recruiters
-Current Work status: looking for employment or other opportunities
+Current Work status: not working, but attempting to find tutoring clients, or software development jobs
 
-Last updated: March 8, 2022
+Last updated: April 8, 2022
 
 
 
 I am a software developer with two years full time industry experience (C#, Java, XSLT, MXML, CSS, Javascript, ORMs, SQL), multiple seasons of experience in grader-marker role at University computer Science courses, tutoring Mathematics to high school students, working on research projects in Python programming language. Has a YouTube channel where he teaches Go programming language. Degree in Computer Science and Linguistics. Knows about text on computers, including Unicode, how to make a keyboard layout. Looking for a software developer role, or teaching role.
 
-You can contact me at grassdewmorning@gmail.com, if you have any questions, errata, or job offers.
+You can contact me at grassdewmorning@gmail.com, if you have any questions, errata. For  job offers, email me at elsanussi.m@outlook.com .
