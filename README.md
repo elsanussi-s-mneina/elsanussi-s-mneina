@@ -1,5 +1,4 @@
 # If you want an introduction to my Github profile, watch [Portfolio tour March 17, 2022](https://youtu.be/BnXb1aC6aFA)
-- [A tour of my Github portfolio 2021-08-19](https://youtu.be/6Bh2DuZoQ0Y)
 
 - [Portfolio](https://elsanussi-s-mneina.github.io/)
 # [Utilities](https://elsanussi-s-mneina.github.io/u/)
