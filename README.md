@@ -3,6 +3,7 @@
 - [Portfolio](https://elsanussi-s-mneina.github.io/)
 # [Utilities](https://elsanussi-s-mneina.github.io/u/)
 - More of my utilities
+   - [Spell out English Alphabet](https://elsanussi-s-mneina.github.io/english-alphabet-audio-speller/) 
    - [Spell out Arabic Alphabet](https://elsanussi-s-mneina.github.io/arabic-alphabet-audio-speller-html-js/)
    - [Spell out loud Hebrew Alphabet](https://elsanussi-s-mneina.github.io/hebrew-alphabet-audio-speller-html-js/) 
    - [Yiddish Alphabet basic keyboard](https://elsanussi-s-mneina.github.io/yiddish-alphabet-basic-keyboard-html-js/)
