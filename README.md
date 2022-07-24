@@ -1,5 +1,3 @@
-# If you want an introduction to my Github profile, watch [Portfolio tour March 17, 2022](https://youtu.be/BnXb1aC6aFA)
-
 - [Portfolio](https://elsanussi-s-mneina.github.io/)
 # [Utilities](https://elsanussi-s-mneina.github.io/u/)
 - More of my utilities
@@ -11,12 +9,6 @@
    - [Arabic Alphabet Syllabic Basic Keyboard](https://elsanussi-s-mneina.github.io/arabic-alphabet-basic-syllabic-keyboard-html-js/)
    - [Hebrew Alphabet Basic Keyboard](https://elsanussi-s-mneina.github.io/hebrew-alphabet-basic-keyboard-html-js/)
    - [IPA Number to IPA Character Converter](https://elsanussi-s-mneina.github.io/ipa-numbers-in-elm/)
-
-
-Please watch my Youtube channels to learn more about me:
-- [GrassDewMorning  https://www.youtube.com/user/GrassDewMorning](https://www.youtube.com/user/GrassDewMorning)
-- [Keyboard Layouts and GrassDewMorning](https://www.youtube.com/channel/UCPcIzNMyas4cSHqCFLiW4EQ)
-- [Golang Morning](https://www.youtube.com/channel/UCfZFSKqV6k31ebx2np9_A7w)
 
 ## Gists (single file source code samples)
 - [Unicode Constants](https://gist.github.com/elsanussi-s-mneina/de4fdbf4edc9993b3b9036eb0de242cd)
